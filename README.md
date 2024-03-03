@@ -14,4 +14,4 @@ Project Details:
 - Implemented the core functionality using JavaScript.
 - The application is responsive and visually appealing.
 - Provides a clear way for users to interact with tasks.
-Feel free to reach out rajeswarimachina02@gmail.com .Happy coding!!
+Feel free to reach out ammu08243@gmail.com .Happy coding!!
